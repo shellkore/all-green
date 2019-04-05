@@ -9,13 +9,7 @@ This tool converts your GitHub contribution calendar to all green. Isn't it amaz
 
 If you are here just for testing purpose, Kindly do it in another GitHub account (probably some secret one) or you can delete that repo later.
 
-This is how profile looked before.
-
-![before](img/before-shellybot.png)
-
-This is how it looked after.
-
-![after](img/after-shellybot.png)
+## PROOF
 
 This is how profile looked before.
 
