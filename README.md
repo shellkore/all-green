@@ -7,6 +7,14 @@ I  declare that this tool is made entirely for fun and learning some shell. Inap
 This tool converts your GitHub contribution calendar to all green. Isn't it amazing ;)
 If you are here just for testing purpose. Kindly do it in another GitHub account (probably some secret one) or you can delete that repo later.
 
+This is how profile looked before.
+
+![before](img/before-shellybot.png)
+
+This is how it looked after.
+
+![after](img/after-shellybot.png)
+
 ## RUN
 
 create a new repo in your GitHub profile.
@@ -15,7 +23,7 @@ clone that repo.
 
 Download or clone this repo and copy `main.sh` file into your newly created repo.
 
-run manin.sh file as sudo
+run main.sh file as sudo
 
 `sudo bash main.sh`
 
@@ -26,3 +34,4 @@ Enter end date.
 finally `PUSH` your repo to see the magic.
 
 `git push -u origin master`
+
