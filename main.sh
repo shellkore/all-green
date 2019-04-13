@@ -12,8 +12,6 @@ read y
 
 DATE=$x
 
-sudo date +%Y%m%d -s $DATE
-
 while [ $DATE -le $y ]
 
 do
@@ -23,10 +21,8 @@ do
 
 	msg='commit'${DATE}
 
-	git commit -m $msg
+	git commit -m $msg --date="$(date -R -d ${DATE})"
    	
    	DATE=$(date +%Y%m%d -d "$DATE + 1 day")
-   	
-   	date +%Y%m%d -s $DATE
 
 done
