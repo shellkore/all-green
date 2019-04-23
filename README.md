@@ -11,17 +11,18 @@ If you are here just for testing purpose, Kindly do it in another GitHub account
 
 ## PROOF
 
-This is how profile looked before.
+This is how profile looked **before**.
 
 ![before](img/before-shellybot.png)
 
-This is how it looked after.
+
+This is how it looked **after**.
 
 ![after](img/after-shellybot.png)
 
 ## RUN
 
-create a new repo in your GitHub profile.
+### create a new repo in your GitHub profile.
 
 clone that repo.
 
@@ -38,4 +39,9 @@ Enter end date.
 finally `PUSH` your repo to see the magic.
 
 `git push -u origin master`
+
+## Contributors
+
+* Shailesh Kumar Sahu - [shellkore](https://github.com/shellkore)
+* Pranav Bhaskar - [Pranav-Bhaskar](https://github.com/Pranav-Bhaskar)
 
